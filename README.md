@@ -10,3 +10,7 @@ All Versions: https://www.mediafire.com/folder/9p5i571n98q95/Text%20Based%20Game
 
 Zerocool211 Software : http://zerocool211software.webs.com/
 
+All images, text and other content in this repository is licensed
+under the Attribution-NonCommercial-NoDerivs  CC BY-NC-ND License.
+
+Zerocool211 (Zerocool211 Software)
