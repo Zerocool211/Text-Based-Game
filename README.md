@@ -1,6 +1,6 @@
 # Text-Based-Game
 
-Text Based Gamne Is Closed Source Atm, But In The Future It Will Become Open Source.
+Text Based Game Is Closed Source Atm, But In The Future It Will Become Open Source.
 
 Text Based Game Is A Text Adventure Where You Can Level Up, Fight Monsters And Do More.
 
