@@ -6,3 +6,5 @@
 4. Made monsters in the first zone do 30% less damage if you are below the max level of the zone.
 5. Made monsters in the second zone do 10% less damage if you are below the max level of the zone.
 6. Added a apple food item and a supperior health potion.
+7. Elite monsters have a 50% chance to drop a superior health potion.
+8. Fixed little things here and there.
