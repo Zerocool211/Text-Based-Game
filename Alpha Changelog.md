@@ -8,3 +8,4 @@
 6. Added a apple food item and a supperior health potion.
 7. Elite monsters have a 50% chance to drop a superior health potion.
 8. Fixed little things here and there.
+9. Made it so you press m to return to main menu instead of having to type menu.
