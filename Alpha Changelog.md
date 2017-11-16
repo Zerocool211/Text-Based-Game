@@ -9,3 +9,4 @@
 7. Elite monsters have a 50% chance to drop a superior health potion.
 8. Fixed little things here and there.
 9. Made it so you press m to return to main menu instead of having to type menu.
+10. Worked on the code for the inventory and items to make it easier to handle more items.
